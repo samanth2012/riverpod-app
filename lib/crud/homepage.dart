@@ -76,7 +76,7 @@ class _HomePageState extends State<Homepage> {
           backgroundColor: const Color.fromARGB(249, 113, 255, 24),
           title: Center(
             child: Text(
-              "Add Tasks",
+              "Add Tasks"
               style: TextStyle(
                 fontSize: 25,
                 color: Colors.white,
